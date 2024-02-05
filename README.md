@@ -10,3 +10,8 @@ Key Highlights
 
 3.Designed a userfriendly dashboard interface accessible to users across different levels of expertise within the organisation.
 
+4.Visualized Key Performance Indicators (KIPs) in a format that provided a quick overview of the company"s performance.
+
+5.Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
+
+PDF LINK:
