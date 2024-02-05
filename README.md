@@ -1,7 +1,7 @@
 # UNP_Project_Ms_Excel_HR_Data
 
 Completed this Project as a part of my Value Added Course with United Networks of Professionals (UNP).
-
+v
 Key Highlights
 
 1.Successfully transformed HR ATTRITION extensive dataset into a comprehensive and insightful Excel dashboard.
@@ -14,4 +14,6 @@ Key Highlights
 
 5.Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
-PDF LINK:
+PDF LINK: https://drive.google.com/file/d/1NwhJPurs6UgcjE_rsTg_555_pV9mpQ4_/view?usp=drivesdk
+
+Excel Link: 
